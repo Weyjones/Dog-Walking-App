@@ -1,4 +1,5 @@
 # Dog-Walking-App
+This apps helps the dog owner to find a dog walker to walk their dog.
 ### Roles: Dog Walker, Dog Owner
 ### Use case:
 #####  Dog Owner
